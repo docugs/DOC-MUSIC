@@ -1,5 +1,4 @@
 telethon==1.24.0
-py-tgcalls==0.8.6
 requests
 pillow
 aiofile
