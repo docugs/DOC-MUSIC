@@ -25,10 +25,10 @@ from telethon.tl.functions.users import GetFullUserRequest
 from youtubesearchpython import VideosSearch
 
  
-fotoplay = "https://telegra.ph/file/b6402152be44d90836339.jpg"
-ngantri = "https://telegra.ph/file/b6402152be44d90836339.jpg"
+fotoplay = "https://telegra.ph/file/dffbf35d137f696bf5219.png"
+ngantri = "https://telegra.ph/file/57c08fd10ced5222e713d.png"
 from Zaid import call_py, Zaid, client as Client
-owner = "1669178360"
+owner = "1087333523"
 from Zaid.helpers.yt_dlp import bash
 from Zaid.helpers.chattitle import CHAT_TITLE
 from Zaid.helpers.queues import (
